@@ -12,4 +12,4 @@
 - ⚡ My knowings are: Javascript | HTML/CSS | React.js | Next.js | Redux | Vue | Angular | Figma.
 - 😄 Fun fact: Latin girl, dog and cat lover, gender equality advocate, Clash Royale player.
 - 💎 I am always excited to learn any technology, paradigm and tool that allows me to grow and achieve personal and team goals while enjoying the processes.
-- - 📫 Contact me via my email rosirisvrm@gmail.com.
+- 📫 Contact me via my email rosirisvrm@gmail.com.

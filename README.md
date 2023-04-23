@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Frontend Web Developer 👩‍💻
+## I'm Frontend Web Developer 👩‍💻
 
 - 👣 I have accumulated a valuable work experience of 4 years in the sector working for companies in different countries.
 - 💻 I'm currently finishing my Software Engineering thesis.

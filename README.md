@@ -1,16 +1,20 @@
 ### Hi there 👋
+## I'm Frontend Web Developer 👩‍💻
 
 <!--
 **rosirisvrm/rosirisvrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👣 I have accumulated a valuable work experience of 4 years in the sector working for companies in different countries.
+- 🔭 I'm currently working on my Software Engering degree work.
+- 🔋 I'm currently learning more tech and comunicative skills.
+- 🌱 I'm currently looking for a work oportunity.
+- 👯 I'm looking to collaborate on innovating projects and ideas.
+- 🤔 I am studying to master my English speaking.
+- 💬 Ask me about frontend develoment using javascript frameworks and libreries.
+- 🌟 My favorite libary is React.js.
+- 📫 Contact me via my email rosirisvrm@gmail.com.
+- ⚡ My knowings are: Javascript | HTML/CSS | React.js | Next.js | Redux | Vue | Angular | Figma.
+- 😄 Fun fact: Latin girl, dog and cat lover, gender equality advocate, Clash Royale player.
+- 💎 I am always excited to learn any technology, paradigm and tool that allows me to grow and achieve personal and team goals while enjoying the processes.
 -->

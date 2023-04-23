@@ -1,9 +1,6 @@
 ### Hi there 👋
 ## I'm Frontend Web Developer 👩‍💻
 
-<!--
-**rosirisvrm/rosirisvrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 👣 I have accumulated a valuable work experience of 4 years in the sector working for companies in different countries.
 - 🔭 I'm currently working on my Software Engering degree work.
@@ -17,4 +14,3 @@ Here are some ideas to get you started:
 - ⚡ My knowings are: Javascript | HTML/CSS | React.js | Next.js | Redux | Vue | Angular | Figma.
 - 😄 Fun fact: Latin girl, dog and cat lover, gender equality advocate, Clash Royale player.
 - 💎 I am always excited to learn any technology, paradigm and tool that allows me to grow and achieve personal and team goals while enjoying the processes.
--->

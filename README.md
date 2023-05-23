@@ -7,5 +7,5 @@
 - 🙋‍♀️ I'm looking for a work oportunity and collaborate on innovating projects and ideas.
 - ⚡ My knowings: HTML/CSS | Javascript | React.js | Next.js | Redux | Material UI | Vue | Angular | Figma.
 - 🌟 My specialty and favorite library is React.js.
-- 💎 I am always excited to learn any technology that allows me to grow and achieve personal and team goals while enjoying the processes.
+- 💎 I am always excited to learn any technology that allows me to grow and achieve personal and team goals.
 - 📫 Contact me via my email rosirisvrm@gmail.com.
